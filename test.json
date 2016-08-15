@@ -1,0 +1,111 @@
+{
+	"title":"Test",
+	"author":"author",
+	"institute":"institute",
+	"theme":"Warsaw",
+	"packages":[
+		"lmodern",
+		"tikz"
+	],
+	"hastableofcontent":true,
+	"sections":[
+		{
+			"slides":[
+				{
+					"title":"Welcome",
+					"items":[
+						{
+							"type":"text",
+							"text":"Welcome"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title":"Section1",
+			"slides":[
+				{
+					"title":"Title page of section one",
+					"items":[
+						{
+							"type":"text",
+							"text":"Title of section one"
+						}
+					]
+				}
+			],
+			"sections":[
+				{
+					"title":"subsection1.1",
+					"slides":[
+						{
+							"title":"First page of subsection1.1",
+							"items":[
+								{
+									"type":"text",
+									"text":"Text of first page of subsection1.1"
+								}
+							]
+						},
+						{
+							"title":"Second page of subsection1.1",
+							"items":[
+								{
+									"type":"text",
+									"text":"Text of second page of subsection1.1"
+								}
+							]
+						}
+					]
+				},
+				{
+					"title":"subsection1.2",
+					"slides":[
+						{
+							"title":"First page of subsection1.2",
+							"items":[
+								{
+									"type":"text",
+									"text":"Text of first page of subsection1.2"
+								}
+							]
+						},
+						{
+							"title":"Second page of subsection1.2",
+							"items":[
+								{
+									"type":"text",
+									"text":"Text of second page of subsection1.2"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"title":"Section2",
+			"slides":[
+				{
+					"title":"First page of section two",
+					"items":[
+						{
+							"type":"text",
+							"text":"first page of section two"
+						}
+					]
+				},
+				{
+					"title":"Second page of section two",
+					"items":[
+						{
+							"type":"text",
+							"text":"second page of section two"
+						}
+					]
+				}
+			]
+		}
+	]
+}
