@@ -93,6 +93,11 @@
 						{
 							"type":"text",
 							"text":"first page of section two"
+						},
+						{
+							"type":"figure",
+							"path":"test.pdf",
+							"scale":0.5
 						}
 					]
 				},
